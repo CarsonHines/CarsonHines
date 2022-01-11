@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CarsonHines
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning HTML, CSS and Javascript
+- 📫 How to reach me: harsoncines@gmail.com
